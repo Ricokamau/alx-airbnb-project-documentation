@@ -50,4 +50,4 @@ This document outlines the key backend features and functionalities required for
 
 ---
 
-![Features Diagram](./features-and-functionalities/features-diagram.png)
+![Features Diagram](https://github.com/Ricokamau/alx-airbnb-project-documentation/blob/main/features-and-functionalities/BnB.png?raw=true)
